@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <img align='center' src="https://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" width="100"/><div></div>
 ##### Numpy | Pandas | Sklearn
-###
+<img align='center' src="https://img.shields.io/badge/Jupyter-F37626?style=round&logo=Python&logoColor=white" width="100"/><div></div>
+##### Jupyter
 ###
 ###
  
