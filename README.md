@@ -27,5 +27,8 @@ Here are some ideas to get you started:
 #### - Engineer Big Data Analysis
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=legg0724)](https://solved.ac/legg0724) <div></div>
+
+<img src="http://mazandi.herokuapp.com/api?handle={legg0724}&theme=warm"/>(https://solved.ac/legg0724)
+
 ![JHLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJI-Hoon&show_icons=true&theme=radical)
 </div> 
